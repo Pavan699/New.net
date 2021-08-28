@@ -1,0 +1,14 @@
+D:\VS .net\Try_One\Try_One\bin\Debug\netcoreapp3.1\Try_One.exe
+D:\VS .net\Try_One\Try_One\bin\Debug\netcoreapp3.1\Try_One.deps.json
+D:\VS .net\Try_One\Try_One\bin\Debug\netcoreapp3.1\Try_One.runtimeconfig.json
+D:\VS .net\Try_One\Try_One\bin\Debug\netcoreapp3.1\Try_One.runtimeconfig.dev.json
+D:\VS .net\Try_One\Try_One\bin\Debug\netcoreapp3.1\Try_One.dll
+D:\VS .net\Try_One\Try_One\bin\Debug\netcoreapp3.1\Try_One.pdb
+D:\VS .net\Try_One\Try_One\obj\Debug\netcoreapp3.1\Try_One.csproj.AssemblyReference.cache
+D:\VS .net\Try_One\Try_One\obj\Debug\netcoreapp3.1\Try_One.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS .net\Try_One\Try_One\obj\Debug\netcoreapp3.1\Try_One.AssemblyInfoInputs.cache
+D:\VS .net\Try_One\Try_One\obj\Debug\netcoreapp3.1\Try_One.AssemblyInfo.cs
+D:\VS .net\Try_One\Try_One\obj\Debug\netcoreapp3.1\Try_One.csproj.CoreCompileInputs.cache
+D:\VS .net\Try_One\Try_One\obj\Debug\netcoreapp3.1\Try_One.dll
+D:\VS .net\Try_One\Try_One\obj\Debug\netcoreapp3.1\Try_One.pdb
+D:\VS .net\Try_One\Try_One\obj\Debug\netcoreapp3.1\Try_One.genruntimeconfig.cache
