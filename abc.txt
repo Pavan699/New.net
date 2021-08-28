@@ -1,4 +1,4 @@
 Hi Guys.
 this is .net practice.
-for the git hub pull-push.
+for the git hub pull-push. We delete
 we pushed the code.
